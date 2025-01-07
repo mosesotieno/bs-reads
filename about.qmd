@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+This blog is dedicated to the books and artcles I'm currently reading and those I have completed in 2025. I am excited to see how my reading journey unfolds this year!
