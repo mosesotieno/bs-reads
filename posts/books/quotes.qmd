@@ -1,0 +1,20 @@
+---
+title: "Famous Quotes"
+author: "Moses Otieno"
+date: "2024-01-07"
+categories: [quotes]
+---
+
+> "I don't divide the world into the weak and the strong, or the successes and the failures....I divide the world into the learners and nonlearners"
+>
+> --- Benjamin Barber
+
+------------------------------------------------------------------------
+
+> "The only way to do great work is to love what you do."
+>
+> --- Steve Jobs
+
+> "After forty years of intensive research on school learning in the United States as well as abroad, my major conclusion is: What any person in the world can learn, almost all persons can learn, if provided with the appropriate prior and current conditions of learning."
+>
+> --- Benjamin Bloom, eminent educational researcher
