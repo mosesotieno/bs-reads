@@ -3,8 +3,11 @@ project:
 
 website:
   title: "bs-reads"
+  favicon: favicon.ico
   navbar:
     right:
+      - text: "Home"
+        href: https://motieno.co.ke/
       - about.qmd
       - icon: github
         href: https://github.com/
