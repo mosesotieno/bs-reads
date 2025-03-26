@@ -47,11 +47,11 @@ Carol S. Dweck introduces the central concept of the book: the two types of mind
 
 #### Key Takeaways
 
--   The **fixed mindset** focuses on proving abilities, avoiding failure, and maintaining a sense of being \"naturally gifted.\"
+-   The **fixed mindset** focuses on proving abilities, avoiding failure, and maintaining a sense of being "naturally gifted."
 
 -   The **growth mindset** values learning, persistence, and embracing challenges as opportunities for self-improvement.
 
--   Mindsets are not set in stone---they can be identified, challenged, and changed to unlock one\'s potential.
+-   Mindsets are not set in stone---they can be identified, challenged, and changed to unlock one's potential.
 
 -   How we interpret success, failure, and effort plays a critical role in shaping our mindset and outcomes.
 
@@ -299,7 +299,7 @@ In this chapter, Dweck explores how mindsets influence success in the workplace,
 
 #### Key Takeaways
 
--   A leader\'s mindset profoundly influences organizational culture, team dynamics, and overall success.
+-   A leader's mindset profoundly influences organizational culture, team dynamics, and overall success.
 
 -   Growth mindset leaders prioritize learning, collaboration, and long-term growth over short-term gains or personal ego.
 
@@ -313,7 +313,7 @@ Chapter 5 emphasizes that a growth mindset in leadership and corporate culture i
 
 ### Chapter 6: Relationships: Mindsets in Love(or Not)
 
-In this chapter, Carol S. Dweck explores how the **fixed mindset** and **growth mindset** influence relationships, particularly romantic ones. She delves into how these mindsets shape people\'s expectations, reactions to challenges, and the dynamics of their relationships.
+In this chapter, Carol S. Dweck explores how the **fixed mindset** and **growth mindset** influence relationships, particularly romantic ones. She delves into how these mindsets shape people's expectations, reactions to challenges, and the dynamics of their relationships.
 
 #### Key Highlights
 
@@ -337,11 +337,11 @@ In this chapter, Carol S. Dweck explores how the **fixed mindset** and **growth 
 
 4.  **The Role of Effort in Love**
 
-    -   A fixed mindset often leads people to believe that if love is "meant to be," it shouldn\'t require effort. Conversely, a growth mindset acknowledges that building a strong, lasting relationship requires dedication, communication, and compromise.
+    -   A fixed mindset often leads people to believe that if love is "meant to be," it shouldn't require effort. Conversely, a growth mindset acknowledges that building a strong, lasting relationship requires dedication, communication, and compromise.
 
 5.  **Compatibility vs. Cultivating Relationships**
 
-    -   Dweck emphasizes that compatibility isn\'t something people "find" but rather something they **create** together. A growth mindset allows partners to work through differences and grow closer over time.
+    -   Dweck emphasizes that compatibility isn't something people "find" but rather something they **create** together. A growth mindset allows partners to work through differences and grow closer over time.
 
 6.  **Jealousy and Possessiveness**
 
@@ -367,7 +367,7 @@ In this chapter, Carol S. Dweck examines how **parents, teachers, and coaches** 
 
 1.  **The Power of Praise**
 
-    -   **Fixed Mindset Praise**: Compliments like "You\'re so smart" or "You\'re a natural" can lead individuals to fear failure and avoid challenges, as they feel pressure to maintain their "gifted" image.
+    -   **Fixed Mindset Praise**: Compliments like "You're so smart" or "You're a natural" can lead individuals to fear failure and avoid challenges, as they feel pressure to maintain their "gifted" image.
 
     -   **Growth Mindset Praise**: Praising effort, strategies, and perseverance fosters resilience and encourages individuals to embrace challenges as opportunities to grow.
 
@@ -389,7 +389,7 @@ In this chapter, Carol S. Dweck examines how **parents, teachers, and coaches** 
 
 4.  **Coaches and Athletes**
 
-    -   Coaches with a fixed mindset focus on talent and immediate results, often discouraging players who don\'t perform well initially.
+    -   Coaches with a fixed mindset focus on talent and immediate results, often discouraging players who don't perform well initially.
 
     -   Growth mindset coaches prioritize effort, persistence, and improvement, helping athletes realize that greatness is built through hard work and dedication.
 
@@ -415,7 +415,7 @@ In this chapter, Carol S. Dweck examines how **parents, teachers, and coaches** 
 
 -   Labels such as "natural" or "gifted" may harm long-term development, while focusing on effort and process builds confidence and adaptability.
 
-Dweck concludes that mindsets are not innate; they are cultivated through the words and actions of significant figures in a person\'s life. Parents, teachers, and coaches hold the key to instilling a growth mindset that empowers individuals to thrive in all areas of life.
+Dweck concludes that mindsets are not innate; they are cultivated through the words and actions of significant figures in a person's life. Parents, teachers, and coaches hold the key to instilling a growth mindset that empowers individuals to thrive in all areas of life.
 
 ------------------------------------------------------------------------
 
@@ -457,7 +457,7 @@ In the final chapter, Carol S. Dweck provides practical guidance on how individu
 
     -   Constructive feedback should be seen as guidance for improvement, not as criticism of your worth.
 
-    -   Ask yourself, \"What can I do differently next time?\" rather than dwelling on the mistake.
+    -   Ask yourself, "What can I do differently next time?" rather than dwelling on the mistake.
 
 5.  **Changing the Mindset Culture in Groups**
 
@@ -545,7 +545,7 @@ Carol S. Dweck concludes that transforming your mindset unlocks the potential fo
 
 3.  **Changing Your Mindset**
 
-    -   A fixed mindset isn\'t permanent; anyone can develop a growth mindset by:
+    -   A fixed mindset isn't permanent; anyone can develop a growth mindset by:
 
         -   Embracing challenges rather than avoiding them.
 
