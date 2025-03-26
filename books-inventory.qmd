@@ -1,0 +1,165 @@
+---
+title: "Books Invetory"
+---
+
+Here's an organized **inventory** of the book titles you provided. I've structured it into a table format for clarity. If you'd like additional details (e.g., genre, format, or status), let me know, and I can expand it further.
+
+------------------------------------------------------------------------
+
+### Book Inventory
+
+| Title                                                                                                             | Author(s)                                                                 | Format |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------|
+| A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers    | University of Chicago Press                                               | PDF    |
+| A Short History of Nearly Everything                                                                              | Bill Bryson                                                               | EPUB   |
+| Mathematics: Its Content, Methods and Meaning                                                                     | A. D. Aleksandrov, A. N. Kolmogorov, M. A. Lavrentev                      | EPUB   |
+| Database System Concepts, 6th Edition                                                                             | Abraham Silberschatz, Henry F. Korth, S. Sudarshan                        | PDF    |
+| Instructor's Manual to Accompany Database System Concepts                                                         | Abraham Silberschatz, Henry F. Korth, S. Sudarshan                        | PDF    |
+| The Elements of Voice First Style                                                                                 | Ahmed Bouzid                                                              | EPUB   |
+| The Joy of PHP: A Beginner's Guide to Programming Interactive Web Applications with PHP and mySQL                 | Alan Forbes                                                               | PDF    |
+| Log-Linear Modeling: Concepts, Interpretation, and Application                                                    | Alexander von Eye, Eun-Young Mun                                          | PDF    |
+| An Introduction to Statistical Learning: with Applications in R                                                   | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani            | PDF    |
+| C# Programming Language                                                                                           | Anders Hejlsberg, Mads Torgersen, Scott Wiltamuth, Peter Golde            | PDF    |
+| Court of Swans                                                                                                    | Melanie Dickerson                                                         | MOBI   |
+| Life Cycle Inventory Analysis: Methods and Data                                                                   | Andreas Ciroth, Rickard Arvidsson                                         | PDF    |
+| Bayesian Data Analysis Third Edition                                                                              | Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari | PDF    |
+| Leadership in War: Essential Lessons from Those Who Made History                                                  | Andrew Roberts                                                            | EPUB   |
+| How to Design and Report Experiments                                                                              | Andy Field, Dr. Graham J. Hole                                            | PDF    |
+| GRIT: The Power of Passion and Perseverance                                                                       | Angela Duckworth                                                          | PDF    |
+| Scientific Writing and Communication: Papers, Proposals, and Presentations                                        | Angelika H. Hofmann                                                       | PDF    |
+| Edexcel AS/A Level Biology B Student Book 1 + ActiveBook                                                          | Ann Fullick                                                               | PDF    |
+| Pearson Edexcel International GCSE Computer Science Student Book                                                  | Ann Weidmann, David Waller, Alex Hadwen-Bennett, Jason Welch              | PDF    |
+| Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins, Tony Robbins, Frederick L. Covan                         | EPUB   |
+| Smart Women Finish Rich, Expanded and Updated                                                                     | David Bach                                                                | EPUB   |
+| Using Multivariate Statistics                                                                                     | Barbara G. Tabachnick, Linda S. Fidell, Jodie B. Ullman                   | PDF    |
+| How to Write and Publish a Scientific Paper                                                                       | Barbara Gastel, Robert A. Day                                             | PDF    |
+| How to Listen So Your Kids Will Talk: Deepen Your Connection and Strengthen Their Confidence                      | Becky Harling                                                             | EPUB   |
+| Think Big: Unleashing Your Potential for Excellence                                                               | Ben Carson, M.D., Cecil Murphey                                           | EPUB   |
+| The Intelligent Investor: The Definitive Book on Value Investing                                                  | Benjamin Graham, Jason Zweig                                              | FB2    |
+| The Craft of Research                                                                                             | Joseph Bizup, Wayne C. Booth, Gregory G. Colomb, William Fitzgerald       | PDF    |
+| Dare to Lead                                                                                                      | Brené Brown                                                               | EPUB   |
+| Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.                                                      | Brené Brown                                                               | EPUB   |
+| PHP & MySQL: The Missing Manual                                                                                   | Brett McLaughlin                                                          | PDF    |
+| Edexcel IGCSE Physics Student Book                                                                                | Brian Arnold, Penny Johnson, Steve Woolley                                | PDF    |
+| The Analysis of Contingency Tables                                                                                | Brian S. Everitt                                                          | PDF    |
+| Exploratory and Confirmatory Factor Analysis: Understanding Concepts and Applications                             | Bruce Thompson                                                            | PDF    |
+| Edexcel AS/A Level Physics Book 1                                                                                 | Miles Hudson                                                              | PDF    |
+| The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism                                | Olivia Fox Cabane                                                         | MOBI   |
+| Deep Work: Rules for Focused Success in a Distracted World                                                        | Cal Newport                                                               | PDF    |
+| The Order of Time                                                                                                 | Carlo Rovelli                                                             | AZW3   |
+| Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds                                             | Carmine Gallo                                                             | PDF    |
+| Mindset: The New Psychology of Success                                                                            | Carol S. Dweck                                                            | EPUB   |
+| Gifted Hands: The Ben Carson Story                                                                                | Ben Carson                                                                | EPUB   |
+| The Invisible Gorilla: How Our Intuitions Deceive Us                                                              | Christopher Chabris                                                       | EPUB   |
+| The Five Love Languages: The Secret to Love that Lasts                                                            | Gary Chapman                                                              | EPUB   |
+| The Power of Habit                                                                                                | Charles Duhigg                                                            | PDF    |
+| Code: The Hidden Language of Computer Hardware and Software                                                       | Charles Petzold                                                           | PDF    |
+| Made to Stick: Why Some Ideas Survive and Others Die                                                              | Chip Heath, Dan Heath                                                     | PDF    |
+| Making Numbers Count: The Art and Science of Communicating Numbers                                                | Chip Heath, Karla Starr                                                   | EPUB   |
+| Reading Primary Literature: A Practical Guide to Evaluating Research Articles in Biology                          | Christopher M. Gillen                                                     | PDF    |
+| Parenting with Love and Logic: Teaching Children Responsibility                                                   | Foster Cline, Jim Fay                                                     | EPUB   |
+| Edexcel AS and A Level Further Mathematics Further Pure Mathematics 2                                             | Various Authors                                                           | PDF    |
+| Further Mathematics Core Pure Mathematics Book 2                                                                  | Various Authors                                                           | PDF    |
+| The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life                          | JL Collins                                                                | EPUB   |
+| The 7 Habits of Highly Effective People: Restoring the Character Ethic                                            | Stephen R. Covey                                                          | EPUB   |
+| Critical Reading: Making Sense of Research Papers in Life Sciences and Medicine                                   | Ben Yudkin                                                                | PDF    |
+| Beginning Perl                                                                                                    | Curtis 'Ovid' Poe                                                         | EPUB   |
+| Pearson Edexcel International GCSE English as a Second Language Teacher's Book                                    | D A Turner, I A Potts                                                     | PDF    |
+| Edexcel International GCSE Mathematics A Student Book 2                                                           | D A Turner, I A Potts                                                     | PDF    |
+| Drive: The Surprising Truth About What Motivates Us                                                               | Daniel H. Pink                                                            | EPUB   |
+| How to Win Friends & Influence People                                                                             | Dale Carnegie                                                             | PDF    |
+| Statistical Methods for Categorical Data Analysis                                                                 | Daniel A. Powers                                                          | PDF    |
+| No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind               | Daniel J. Siegel, Tina Payne Bryson                                       | EPUB   |
+| The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind                        | Daniel J. Siegel, Tina Payne Bryson                                       | EPUB   |
+| SF1624 Algebra and Geometry: Introduction to Linear Algebra for Science & Engineering                             | Daniel Norman, Dan Wolczuk                                                | PDF    |
+| Applied Linear Regression for Business Analytics with R: A Practical Guide to Data Science with Case Studies      | Daniel P. McGibney                                                        | PDF    |
+| Galileo's Daughter: A Historical Memoir of Science, Faith, and Love                                               | Dava Sobel                                                                | PDF    |
+| The Total Money Makeover Workbook: Classic Edition                                                                | Dave Ramsey                                                               | EPUB   |
+| Computer Organization and Design MIPS Edition                                                                     | David A. Patterson, John L. Hennessy                                      | EPUB   |
+| Statistical Methods for Psychology                                                                                | David C. Howell                                                           | PDF    |
+| Bias Reduction of Maximum Likelihood Estimates                                                                    | David Firth                                                               | PDF    |
+| A Pocket Guide to Epidemiology                                                                                    | David G. Kleinbaum, Kevin M. Sullivan, Nancy D. Barker                    | PDF    |
+| Exploring Social Psychology                                                                                       | David G. Myers, Jean M. Twenge                                            | MOBI   |
+| Log-Linear Models                                                                                                 | David Knoke, Peter J. Burke                                               | EPUB   |
+| Elementary Number Theory                                                                                          | David M. Burton                                                           | PDF    |
+| Abstract Algebra                                                                                                  | David S. Dummit, Richard M. Foote                                         | PDF    |
+| The Intellectual Devotional: Revive Your Mind, Complete Your Education, and Roam Confidently with the Culture     | David S. Kidder, Noah D. Oppenheim                                        | EPUB   |
+| C++ Solutions: Companion to the C++ Programming Language                                                          | David Vandevoorde                                                         | PDF    |
+| Scientific Papers and Presentations                                                                               | Martha Davis                                                              | PDF    |
+| The Princeton Companion to Applied Mathematics                                                                    | Nicholas J. Higham, Mark R. Dennis, Paul Glendinning                      | PDF    |
+| Introduction to Probability                                                                                       | Dimitri P. Bertsekas, John N. Tsitsiklis                                  | PDF    |
+| Statistical Methods                                                                                               | Donna L. Mohr, William J. Wilson, Rudolf J. Freund                        | PDF    |
+| Design and Analysis of Experiments                                                                                | Douglas C. Montgomery                                                     | PDF    |
+| Applied Statistics and Probability for Engineers                                                                  | Douglas C. Montgomery, George C. Runger                                   | PDF    |
+| Difficult Conversations: How to Discuss What Matters Most                                                         | Douglas Stone, Bruce Patton, Sheila Heen, Roger Fisher                    | EPUB   |
+| Research Data Visualization and Scientific Graphics                                                               | Dr. Martins Zaumanis                                                      | PDF    |
+| Edexcel AS and A Level Further Mathematics Further Pure Mathematics 1                                             | Various Authors                                                           | PDF    |
+| Edexcel International A Level Mathematics Pure 2 Mathematics Student Book                                         | Various Authors                                                           | PDF    |
+| The Visual Display of Quantitative Information                                                                    | Edward R. Tufte                                                           | PDF    |
+| The R Book                                                                                                        | Elinor Jones, Simon Harden, Michael J. Crawley                            | PDF    |
+| Childhood and Society                                                                                             | Erik Homburger Erikson                                                    | EPUB   |
+| Broke Millennial Talks Money: Scripts, Stories, and Advice to Navigate Awkward Financial Conversations            | Erin Lowry                                                                | EPUB   |
+| F. Scott Fitzgerald: The Great Gatsby, All the Sad Young Men & Other Writings                                     | F. Scott Fitzgerald                                                       | EPUB   |
+| How to Talk So Kids Will Listen & Listen So Kids Will Talk                                                        | Adele Faber, Elaine Mazlish                                               | EPUB   |
+| Siblings Without Rivalry                                                                                          | Adele Faber, Elaine Mazlish                                               | EPUB   |
+| Pearson Edexcel International GCSE Chemistry Student Book                                                         | Jim Clark                                                                 | PDF    |
+| Good to Great                                                                                                     | Jim Collins                                                               | EPUB   |
+| Parenting Teens With Love and Logic: Preparing Adolescents for Responsible Adulthood                              | Jim Fay, Foster Cline                                                     | EPUB   |
+| Edexcel International A Level Mathematics Pure 4 Mathematics Student Book                                         | Joe Skrakowski                                                            | PDF    |
+| Pearson Edexcel International A Level Mathematics Pure Mathematics 1 Student Book                                 | Joe Skrakowski, Harry Smith                                               | PDF    |
+| Pearson Edexcel International A Level Mathematics Pure Mathematics 3 Student Book                                 | Joe Skrakowski, Harry Smith                                               | PDF    |
+| The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale                                            | John A. List                                                              | EPUB   |
+| Pearson Edexcel International AS/A Level Accounting Student Book 1                                                | John Bellwood                                                             | PDF    |
+| The Scientists: A History of Science Told Through the Lives of Its Greatest Inventors                             | John Gribbin                                                              | PDF    |
+| The Haynes Automotive Heating & Air Conditioning Systems                                                          | John H. Haynes, Mike Stubblefield                                         | PDF    |
+| Design and Analysis of Experiments with R                                                                         | John Lawson                                                               | PDF    |
+| Brain Rules for Baby: How to Raise a Smart and Happy Child from Zero to Five                                      | John Medina                                                               | AZW3   |
+| Applied Multivariate Statistical Analysis                                                                         | Richard A. Johnson, Dean W. Wichern                                       | PDF    |
+| Calculus: Early Transcendentals, Multivariable                                                                    | Jon Rogawski, Colin Adams, Robert Franzosa                                | PDF    |
+| The Craft of Scientific Communication                                                                             | Joseph E. Harmon, Alan G. Gross                                           | PDF    |
+| Crucial Conversations: Tools for Talking When Stakes Are High                                                     | Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory  | EPUB   |
+| Introduction to Probability                                                                                       | Joseph K. Blitzstein, Jessica Hwang                                       | PDF    |
+| He Wins, She Wins: Learning the Art of Marital Negotiation                                                        | Willard F. Harley Jr.                                                     | MOBI   |
+| The Happiest Baby on the Block                                                                                    | Harvey Karp                                                               | EPUB   |
+| Applied Multivariate Statistics for the Social Sciences: Analyses with SAS and IBM's SPSS                         | Keenan A. Pituch, James P. Stevens                                        | EPUB   |
+| Who's Got Your Back: The Breakthrough Program to Build Deep, Trusting Relationships That Create Success           | Keith Ferrazzi                                                            | EPUB   |
+| Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time                   | Keith Ferrazzi, Tahl Raz                                                  | EPUB   |
+| God's Wisdom for Navigating Life: A Year of Daily Devotions in the Book of Proverbs                               | Timothy Keller, Kathy Keller                                              | EPUB   |
+| Data Management for Researchers: Organize, Maintain and Share Your Data for Research Success                      | Kristin Briney                                                            | PDF    |
+| Computer Networking: A Top-Down Approach                                                                          | James Kurose, Keith Ross                                                  | PDF    |
+| The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed                           | Jessica Lahey                                                             | EPUB   |
+| Exploratory and Confirmatory Factor Analysis: Understanding Concepts and Applications                             | Bruce Thompson                                                            | PDF    |
+| Edexcel AS/A Level Physics Book 1                                                                                 | Miles Hudson                                                              | PDF    |
+| French All-in-One For Dummies                                                                                     | Various Authors                                                           | PDF    |
+| A Course of Pure Mathematics                                                                                      | G. H. Hardy                                                               | DJVU   |
+| An Introduction to the Theory of Numbers                                                                          | G. H. Hardy, E. M. Wright                                                 | PDF    |
+| Rising Above a Toxic Workplace: Taking Care of Yourself in an Unhealthy Environment                               | Gary Chapman, Paul White                                                  | EPUB   |
+| The 5 Love Languages of Children: The Secret to Loving Children Effectively                                       | Gary Chapman, Ross Campbell                                               | EPUB   |
+| Sacred Marriage Bible Study Participant's Guide                                                                   | Gary Thomas                                                               | EPUB   |
+| How to Think Like Leonardo Da Vinci: Seven Steps to Genius Every Day                                              | Michael J. Gelb                                                           | EPUB   |
+| Design and Analysis: A Researcher's Handbook                                                                      | Geoffrey Keppel, Thomas D. Wickens                                        | PDF    |
+| Biostatistics: The Bare Essentials                                                                                | Geoffrey R. Norman, David L. Sreiner                                      | EPUB   |
+| Thomas Calculus: Early Transcendentals                                                                            | George B. Thomas, Joel Hass, Christopher Heil, Przemyslaw Bogacki         | PDF    |
+| Statistical Inference                                                                                             | George Casella, Roger L. Berger                                           | PDF    |
+| Statistics for Experimenters: Design, Innovation, and Discovery                                                   | George E. P. Box, J. Stuart Hunter, William G. Hunter                     | PDF    |
+| Complete Works of George Orwell                                                                                   | George Orwell                                                             | PDF    |
+| Real Analysis: Modern Techniques and Their Applications                                                           | Gerald B. Folland                                                         | PDF    |
+| Getting Things Done: The Art of Stress-Free Productivity                                                          | David Allen                                                               | EPUB   |
+| Introduction to Linear Algebra                                                                                    | Gilbert Strang                                                            | PDF    |
+| Designing Your Life: How to Build a Well-Lived, Joyful Life                                                       | Bill Burnett, Dave Evans                                                  | EPUB   |
+| Financial Freedom: A Proven Path to All the Money You Will Ever Need                                              | Grant Sabatier, Vicki Robin                                               | EPUB   |
+| Essential Statistics for the Behavioral Sciences                                                                  | Gregory J. Privitera                                                      | PDF    |
+| Understanding Scientific Papers                                                                                   | R. Gross, A. Derowe                                                       | PDF    |
+| R for Data Science: Import, Tidy, Transform, Visualize, and Model Data                                            | Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund                  | EPUB   |
+| Fairy Tales from Hans Christian Andersen                                                                          | Hans Christian Andersen                                                   | PDF    |
+| A Mathematician's Apology                                                                                         | G. H. Hardy                                                               | PDF    |
+| Draw Close: A Devotional for Couples                                                                              | Willard F. Harley Jr.                                                     | EPUB   |
+| Benjamin Franklin                                                                                                 | Harold Bloom                                                              | PDF    |
+| Pearson Edexcel GCSE Mathematics Foundation Tier Revision Guide + App                                             | Harry Smith                                                               | PDF    |
+| Edexcel AS and A Level Further Mathematics Decision Mathematics 1                                                 | Harry Smith, Susie Jameson, Peter Sherran, Keith Pledger                  | PDF    |
+| Eloquent JavaScript: A Modern Introduction to Programming                                                         | Marijn Haverbeke                                                          | PDF    |
+| How to Design Efficient Cluster Randomised Trials                                                                 | K. Hemming, S. Eldridge, G. Forbes, C. Weijer, M. Taljaard                | PDF    |
+| Alan Turing: The Enigma                                                                                           | Andrew Hodges                                                             | EPUB   |
+| How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships                                          | Leil Lowndes                                                              | PDF    |
+| How to Write a Scientific Paper                                                                                   | Various Authors                                                           | PDF    |
+| The Pragmatic Programmer: Your Journey to Mastery                                                                 | Andrew Hunt, David Thomas                                                 |        |
